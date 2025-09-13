@@ -17,4 +17,4 @@
 
 ## 📫 Contact
 - 🌐 GitHub: [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU)  
-- ✉️ Email: *(add your email here if you want)*  
+- ✉️ Email: [phuriphathem@gmail.com](mailto:phuriphathem@gmail.com)  
