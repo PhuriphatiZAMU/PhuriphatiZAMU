@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m PhuriphatiZAMU
 
-<!--
-**PhuriphatiZAMU/PhuriphatiZAMU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 Passionate about **Programming, OOP, and Software Development**  
+- 💡 Currently learning **Java, Web Development, and AI**  
+- 🎮 Interested in **Game Development & Simulation**  
+- 📚 Love experimenting with small projects to practice and improve my skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Languages:** Java, JavaScript, Python  
+- **Web:** HTML, CSS, React (learning), Node.js  
+- **Other:** Git, GitHub, MySQL, Swing (Java GUI)  
+
+---
+
+## 📫 Contact
+- 🌐 GitHub: [@PhuriphatiZAMU](https://github.com/PhuriphatiZAMU)  
+- ✉️ Email: *(add your email here if you want)*  
