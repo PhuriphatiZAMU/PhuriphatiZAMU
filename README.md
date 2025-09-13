@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Skills & Tools
-- **Languages:** Java, JavaScript, Python  
+- **Languages:** Java, JavaScript, Python, C, C#  
 - **Web:** HTML, CSS, React (learning), Node.js  
 - **Other:** Git, GitHub, MySQL, Swing (Java GUI)  
 
